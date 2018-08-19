@@ -1,0 +1,13 @@
+.\objects\sonic.o: sonic.c
+.\objects\sonic.o: sonic.h
+.\objects\sonic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\sonic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sonic.o: C:\Keil_v5\ARM\INC\NXP\LPC177x_8x\LPC177x_8x.H
+.\objects\sonic.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h
+.\objects\sonic.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\sonic.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\sonic.o: C:\Keil_v5\ARM\INC\NXP\LPC177x_8x\system_LPC177x_8x.h
+.\objects\sonic.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\sonic.o: timer.h
+.\objects\sonic.o: lcd.h
+.\objects\sonic.o: helpers.h
